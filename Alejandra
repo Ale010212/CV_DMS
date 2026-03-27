@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CV - Alejandra Hernández</title>
+    <link rel="stylesheet" href="../../css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="cv">
+
+<div class="wrapper html css java mantenimiento trabajo-equipo">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+        <img src="../../img/alejandra.jpg" alt="Foto de perfil" class="profile-pic">
+
+        <h1 class="cv">Alejandra Hernández</h1>
+        <p class="role">Ingeniería en Computación</p>
+
+        <div class="contact">
+            <p>📍 Toluca de Lerdo</p>
+            <p>📧 
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alehm010212@gmail.com" target="_blank">
+                    alehm010212@gmail.com
+                </a>
+            </p>
+            <p>📱 <a href="https://wa.me/527291377589" target="_blank">729 137 7589</a></p>
+        </div>
+
+        <!-- HABILIDADES TÉCNICAS -->
+        <div class="skills">
+            <h3>Habilidades Técnicas</h3>
+
+            <div class="skill">☕ Java</div>
+            <div class="skill">🌐 HTML</div>
+            <div class="skill">🎨 CSS</div>
+            <div class="skill">🖥️ Mantenimiento</div>
+            <div class="skill">📂 Organización</div>
+        </div>
+
+        <!-- HABILIDADES BLANDAS -->
+        <div class="skills">
+            <h3>Habilidades Blandas</h3>
+            <div class="skill">Trabajo en equipo</div>
+            <div class="skill">Comunicación efectiva</div>
+            <div class="skill">Responsabilidad</div>
+        </div>
+
+    </aside>
+
+    <!-- CONTENIDO -->
+    <main class="content">
+
+        <section class="card">
+            <h2>Perfil Profesional</h2>
+            <p>
+                Estudiante de Ingeniería en Computación con interés en desarrollo de software,
+                diseño web y mantenimiento de equipos. Experiencia en programación en Java
+                y apoyo académico en áreas como Matemáticas y Español. Me caracterizo por ser
+                responsable, organizada y con facilidad para trabajar en equipo.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>Educación</h2>
+            <ul>
+                <li>Ingeniería en Computación - UAEMex (2021 - Actualidad)</li>
+                <li>Técnico en Tecnologías de la Información - CBT No. 3 Toluca (2017 - 2020)</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Experiencia / Actividades</h2>
+            <ul>
+                <li>Apoyo académico en Matemáticas y Español</li>
+                <li>Prácticas en mantenimiento de equipos de cómputo</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Información Adicional</h2>
+            <p>
+                Disponibilidad para prácticas profesionales y aprendizaje continuo
+                en el área de desarrollo de software.
+            </p>
+        </section>
+
+    </main>
+
+</div>
+
+</body>
+</html>
